@@ -1,9 +1,14 @@
 # Hi, I'm Ash
-### [PGP Key](pub.asc)
+
+### [Latest PGP Key](pub/latest.asc)
+
 ```
-pub   rsa4096/80BDA368A657C695 2020-11-28 [SC] [expires: 2022-11-28]
-      E9F3E8B6CD9BC28DEA8999EF80BDA368A657C695
-uid                 [ultimate] Ash Null <ashe.null@protonmail.ch>
-sub   rsa4096/2E3B5E0E30CF49EB 2020-11-28 [E] [expires: 2022-11-28]
+pub   rsa4096 2022-04-13 [SC] [expires: 2026-04-12]
+      889B45F452E21E41BF5A78BAEC2BB7BED0FFA0BD
+uid           [ultimate] Ash Null <ash.zsh@proton.me>
+sub   rsa4096 2022-04-13 [E] [expires: 2026-04-12]
 ```
-### Pronouns: [they/them](https://pronoun.is/they)
+
+[All PGP keys](pub/all/)
+
+### Pronouns: [they/it](https://pronoun.is/they/:or/it)
