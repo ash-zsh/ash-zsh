@@ -11,4 +11,4 @@ sub   rsa4096 2022-04-13 [E] [expires: 2026-04-12]
 
 [All PGP keys](pub/all/)
 
-### Pronouns: [they/it](https://pronoun.is/they/:or/it)
+### Pronouns: [**it** | they](https://pronoun.is/it/:or/they/)
